@@ -1,0 +1,22 @@
+{
+  "name": "TestPodLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestPodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hannah Saud Abdalla/TestPodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hannah Saud Abdalla": "hannah.abdalla@smartdubai.ae"
+  },
+  "source": {
+    "git": "https://github.com/Hannah Saud Abdalla/TestPodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TestPodLib/Classes/**/*"
+}
